@@ -119,9 +119,8 @@ height: 135px;
 }
 
 .foto-profile{
-
-width:100px;
-height:150px;
+width:100px !important;
+height:150px !important;
 object-fit:cover;
 border-radius:50%;
 margin-bottom:15px;
